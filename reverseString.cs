@@ -3,7 +3,7 @@ class Program{
   static void Main(){
     string str= "bishnu";
     reverse(ref str);
-Console.WriteLine(str);
+    Console.WriteLine(str);
 
   }
   static void reverse(ref string one){
