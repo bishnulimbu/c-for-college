@@ -1,10 +1,8 @@
 namespace Name
 {
-  public static void Main(string[] args)
+  public static void Main()
   {
-    Console.Clear();
     Console.WriteLine("Hello");
-    Console.ReadKey();
   }
     
 }
