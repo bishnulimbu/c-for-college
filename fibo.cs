@@ -8,17 +8,19 @@ class Program
         int n = Convert.ToInt32(Console.ReadLine());
         for (int i = 0; i < n; i++)
         {
-            System.Console.WriteLine(fibo(n) + " ");
+            System.Console.WriteLine(fibo(i) + " ");
 
         }
         fibo(n);
-
-
     }
-    static void fibo(int n);
+    static int fibo(int n)
     {
-      int sum;
-}
+        if (n <= 1)
+        {
+            return n;
+        }
+        return fibo(n - 1) + fibo(n - 2);
+    }
 }
 
 
