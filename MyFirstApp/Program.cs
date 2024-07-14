@@ -1,6 +1,30 @@
-﻿    Console.Write("enter the first number:");
-    int fNum = Convert.ToInt32(Console.ReadLine());
-    Console.Write("enter the second number:");
-    int sNum = Convert.ToInt32(Console.ReadLine());
-    int sum = fNum + sNum;
-    Console.WriteLine("sum" +" : "+ sum);
+﻿using System;
+using System.Collections;
+enum gender
+{
+    male, female, trans
+}
+class Program
+{
+    static void Main()
+    {
+        ArrayList al = new ArrayList();
+        al.Add(10);
+        al.Add(20);
+        al.Add(30);
+        al.Add(40);
+        al.Add(50);
+        al.Add("ram");
+        al.Add("sam");
+        al.Add("hari");
+        al.Remove(20);
+        al.Insert(0, "sita");
+        al.RemoveAt(5);
+        for (int i = 0; i < al.Count; i++)
+        {
+            Console.WriteLine("the index of the arraylist is " + i + " is " + al[i]);
+        }
+        System.Console.WriteLine("the count of the arraylist is " + al.Count);
+        System.Console.WriteLine("the capacity of the arraylist is " + al.Capacity);
+    }
+}

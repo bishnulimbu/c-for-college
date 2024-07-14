@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/MyFirstApp.csproj": {}
+  },
+  "projects": {
+    "/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/MyFirstApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/MyFirstApp.csproj",
+        "projectName": "MyFirstApp",
+        "projectPath": "/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/MyFirstApp.csproj",
+        "packagesPath": "/home/bishnu/.nuget/packages/",
+        "outputPath": "/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bishnu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

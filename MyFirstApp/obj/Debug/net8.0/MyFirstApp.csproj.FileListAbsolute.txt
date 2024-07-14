@@ -1,0 +1,15 @@
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/bin/Debug/net8.0/MyFirstApp
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/bin/Debug/net8.0/MyFirstApp.deps.json
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/bin/Debug/net8.0/MyFirstApp.runtimeconfig.json
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/bin/Debug/net8.0/MyFirstApp.dll
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/bin/Debug/net8.0/MyFirstApp.pdb
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfo.cs
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.sourcelink.json
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.dll
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/refint/MyFirstApp.dll
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
+/home/bishnu/Desktop/Coding/cSharp-for-college/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll

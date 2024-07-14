@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <!-- if disable, will need to use namespace and classes. -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
