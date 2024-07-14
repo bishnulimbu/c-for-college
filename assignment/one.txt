@@ -1,0 +1,8 @@
+Hello, I am ram. I am from Nepal. 
+
+--to run the program
+
+  dotnet new console -n ConsoleAppName                                                                                 ok  at 12:48:00 
+  mv ProgramName.cs ConsoleAppName/ProgramName.cs
+  ConsoleAppName 
+  dotnet run
