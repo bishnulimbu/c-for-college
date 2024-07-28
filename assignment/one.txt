@@ -6,3 +6,13 @@ Hello, I am ram. I am from Nepal.
   mv ProgramName.cs ConsoleAppName/ProgramName.cs
   ConsoleAppName 
   dotnet run
+
+
+  lang ma c# windows forms app(.net framewowk)
+  
+mkdir MyNewProject
+cd MyNewProject
+dotnet new console
+
+dotnet build
+dotnet run
