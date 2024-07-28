@@ -38,3 +38,4 @@ namespace chandraCRUD
     form.ShowDialog();
 }
 //also change the anchor for making the gridbox responsive
+//button right and button only buttom only for the middle and so on
