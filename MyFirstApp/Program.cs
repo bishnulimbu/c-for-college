@@ -1,30 +1,18 @@
 ﻿using System;
-using System.Collections;
-enum gender
+
+namespace ConsoleWithDbCrud
 {
-    male, female, trans
-}
-class Program
-{
-    static void Main()
+    public class Program
     {
-        ArrayList al = new ArrayList();
-        al.Add(10);
-        al.Add(20);
-        al.Add(30);
-        al.Add(40);
-        al.Add(50);
-        al.Add("ram");
-        al.Add("sam");
-        al.Add("hari");
-        al.Remove(20);
-        al.Insert(0, "sita");
-        al.RemoveAt(5);
-        for (int i = 0; i < al.Count; i++)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("the index of the arraylist is " + i + " is " + al[i]);
+            Student s = new Student();
+            s.id = 1;
+            s.name = "Bishanu";
+            s.DOB = DateOnly.Parse("1994-01-01");
+            DataAccess Da = new DataAccess();
+
+
         }
-        System.Console.WriteLine("the count of the arraylist is " + al.Count);
-        System.Console.WriteLine("the capacity of the arraylist is " + al.Capacity);
     }
 }
