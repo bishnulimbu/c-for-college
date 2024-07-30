@@ -1,0 +1,11 @@
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\bin\Debug\ContactApp.exe.config
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\bin\Debug\ContactApp.exe
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\bin\Debug\ContactApp.pdb
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.csproj.AssemblyReference.cache
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.Properties.Resources.resources
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.csproj.GenerateResource.cache
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.csproj.CoreCompileInputs.cache
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.exe
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.pdb
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.frm.resources
+C:\Users\DaoLord\source\repos\ContactApp\ContactApp\obj\Debug\ContactApp.frmNew.resources
