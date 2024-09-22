@@ -1,0 +1,27 @@
+
+@model IEnumerable<TodoApp.Models.TodoItem>
+
+<h2>Todo List</h2>
+<a href="/Todo/Create">Create New Task</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Task</th>
+            <th>Is Complete</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Task</td>
+                <td>@item.IsComplete</td>
+                <td>
+                    <a href="/Todo/Edit/@item.Id">Edit</a> |
+                    <a href="/Todo/Delete/@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
